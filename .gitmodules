@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "REDCapTidieR"]
+	path = REDCapTidieR
+	url = https://github.com/chop-cgtinformatics/redcaptidier
+	shallow = true
+	registered = true
