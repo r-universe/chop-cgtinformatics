@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "REDCapR"]
+	path = REDCapR
+	url = https://github.com/OuhscBbmc/REDCapR
+	registered = false
 [submodule "REDCapTidieR"]
 	path = REDCapTidieR
 	url = https://github.com/chop-cgtinformatics/redcaptidier

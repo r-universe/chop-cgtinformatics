@@ -1,0 +1,8 @@
+[
+  {
+    "package": "REDCapR",
+    "url": "https://github.com/OuhscBbmc/REDCapR",
+    "via": ["REDCapTidieR"],
+    "from": "REDCapTidieR"
+  }
+]
